@@ -1,0 +1,6 @@
+ chromadb
+  sentence-transformers
+boto3
+ google-cloud-storage
+sqlalchemy
+psycopg
