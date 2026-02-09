@@ -5,3 +5,6 @@ boto3
 sqlalchemy
 psycopg
  redis
+ python-jose
+  cryptography 
+  fastapi
